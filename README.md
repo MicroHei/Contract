@@ -1,3 +1,3 @@
 # Contract
 
-solidity of DeVNet token before mainnet coin cames out.
+Solidity of DeVNet token before mainnet coin cames out.
